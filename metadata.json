@@ -1,0 +1,6 @@
+{
+  "name": "SiamShop ตลาดออนไลน์ครบวงจร",
+  "description": "แพลตฟอร์มช้อปปิ้งออนไลน์สไตล์ Shopee พร้อมระบบผู้ซื้อ ศูนย์ผู้ขาย ระบบแอดมินจัดการสิทธิ์ และระบบชำระเงิน PromptPay",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
